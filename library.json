@@ -16,7 +16,7 @@
         "maintainer": true
     }
   ],
-  "frameworks": "arduino",
+  "frameworks": ["arduino", "espidf"],
   "platforms": "raspberrypi, espressif8266, espressif32, ststm32",
   "headers": "TFT_eSPI.h"
 }
